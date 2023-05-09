@@ -20,8 +20,8 @@ To perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to 
 8.Save and Run the Program.
 ### Program:
 ```
-Developed By:P.RAMSAI
-Reg.No:212221240041
+Developed By:A.Sai Bandhavi
+Reg.No:212221240006
 
 #include "common.h"
 #include <cuda_runtime.h>
@@ -194,7 +194,7 @@ int main(int argc, char **argv)
 }
 ```
 ## Output:
-![output]([21](https://user-images.githubusercontent.com/94208895/237000556-086f6615-4e82-4f25-a6eb-d4d57c257181.png))
+
 
 ## Result:
 Thus the program to perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to integer matrix addition has been successfully executed.
