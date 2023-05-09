@@ -195,6 +195,8 @@ int main(int argc, char **argv)
 ```
 ## Output:
 
+![pca2](https://user-images.githubusercontent.com/94208895/237001640-e6fb0d93-15d3-4224-bc06-28b0d87ef0ba.png)
+![Uploading pca2.png…]()
 
 ## Result:
 Thus the program to perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to integer matrix addition has been successfully executed.
